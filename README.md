@@ -12,7 +12,7 @@ It is a small platform backend ([src/doomgeneric_cardputerzero.c](src/doomgeneri
 - **Input** is read from the built-in keyboard through evdev. The game is played on the letter keys, because the arrow keys on this keyboard need Fn held down. A USB keyboard works too.
 - **Sound** uses SDL2_mixer for effects and MIDI music.
 
-> **Status:** the build and an automated off-device test (fake framebuffer plus scripted key presses) pass. It has not been run on real CardputerZero hardware yet — please [open an issue](https://github.com/droomurray/czdoom/issues) with `/tmp/czdoom.log` if something is off.
+> **Status:** confirmed running on a real CardputerZero from the stock launcher. If something is off on your device, please [open an issue](https://github.com/droomurray/czdoom/issues) with `/tmp/czdoom.log`.
 
 ## Install
 
