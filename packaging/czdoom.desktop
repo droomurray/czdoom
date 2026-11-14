@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=DOOM
+Exec=/usr/share/APPLaunch/bin/czdoom
+Terminal=false
+Icon=share/images/czdoom.png
+Type=Application
+Categories=Game;

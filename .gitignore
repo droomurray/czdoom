@@ -1,0 +1,5 @@
+build/
+dist/
+vendor/
+out/
+.DS_Store
